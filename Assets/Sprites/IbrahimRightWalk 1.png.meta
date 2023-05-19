@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 88067bd5f8bea8c46bc958b2c05a3e36
+guid: 4efab6bca6af18440b3aefa005f53cc2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,7 +128,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IbrahimIdle_0
+      name: IbrahimRightWalk 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c5a96179abd548809542ffa6776a2
+      internalID: 568264275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035101bbb2e639e49b5ef56e22ba9294
+      internalID: 2028866380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e475e81201a24391ed75ae36a9805
+      internalID: 2026115975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3aba4b3385e646af8585b5a4fca74
+      internalID: 1766955529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_4
       rect:
         serializedVersion: 2
         x: 0
@@ -142,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c00c4ac010832144a92f2ad26f0f357
-      internalID: -2085777209
+      spriteID: c7050f283bd65864ebecebab8344b571
+      internalID: 624810961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IbrahimIdle_1
+      name: IbrahimRightWalk 1_5
       rect:
         serializedVersion: 2
         x: 640
@@ -163,14 +247,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4ed83385e4c47549bc04e8d504675c9
-      internalID: 1629662692
+      spriteID: 095e0aec44044eb4686e7d680481cd86
+      internalID: -511723814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IbrahimIdle_2
+      name: IbrahimRightWalk 1_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86350e7287d75848805b93e84aa5f1d
+      internalID: -326291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2802e30865ef8014da2a61202d5d4cc2
+      internalID: 863970159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_8
       rect:
         serializedVersion: 2
         x: 0
@@ -184,14 +310,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 143fba17cdbadf643afd015de30191a4
-      internalID: -1490867496
+      spriteID: cdc6f57e6cf11ec48a4386183c52d1fd
+      internalID: 31855361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IbrahimIdle_3
+      name: IbrahimRightWalk 1_9
       rect:
         serializedVersion: 2
         x: 640
@@ -205,8 +331,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1be36868c97867242a40011af53a599b
-      internalID: -949245220
+      spriteID: c38aeda1aa2254141a5d8fcd2f50af88
+      internalID: 1007186929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5dd5fdcd6fb4749883460b3bb1ffcf
+      internalID: 182537618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IbrahimRightWalk 1_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b383c5b96def34880fbbcdc7d7e02f
+      internalID: -587483435
       vertices: []
       indices: 
       edges: []
@@ -222,10 +390,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      IbrahimIdle_3: -949245220
-      IbrahimIdle_0: -2085777209
-      IbrahimIdle_1: 1629662692
-      IbrahimIdle_2: -1490867496
+      IbrahimRightWalk 1_8: 31855361
+      IbrahimRightWalk 1_6: -326291212
+      IbrahimRightWalk 1_10: 182537618
+      IbrahimRightWalk 1_7: 863970159
+      IbrahimRightWalk 1_0: 568264275
+      IbrahimRightWalk 1_1: 2028866380
+      IbrahimRightWalk 1_2: 2026115975
+      IbrahimRightWalk 1_4: 624810961
+      IbrahimRightWalk 1_3: 1766955529
+      IbrahimRightWalk 1_5: -511723814
+      IbrahimRightWalk 1_11: -587483435
+      IbrahimRightWalk 1_9: 1007186929
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
